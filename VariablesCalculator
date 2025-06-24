@@ -1,0 +1,11 @@
+public class Test2Variables {
+   // calculator
+    public static void main(String[] args) {
+        int value = 10593; // variables value
+        int result = 586; // variables result
+
+        System.out.println("calculator");
+        System.out.println(value + " - " + result + " =");
+        System.out.println(value - result);
+    }
+}
